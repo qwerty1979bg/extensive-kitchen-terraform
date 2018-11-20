@@ -14,7 +14,7 @@ The following instructions assume you start with a clean Ubuntu 16.04 LTS Xenial
 (for example `ami`&#8209;`0f9351b59be17920e` in `us-east-1`)
 
 1. Install the dependency hell:
-``
+```
 $ sudo apt update
 $ sudo apt install -y less gcc ruby ruby-dev make g++ git jq unzip python-pip
 $ sudo gem install bundler
