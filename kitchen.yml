@@ -88,8 +88,8 @@ platforms:
 
         - name: remote
 
-#          attrs:
-#            - test/integration/extensive_suite/ubuntu_attributes.yml
+          attrs:
+            - test/integration/extensive_suite/ubuntu_attributes.yml
 
           backend: ssh
 
