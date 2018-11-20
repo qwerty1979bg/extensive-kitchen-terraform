@@ -3,15 +3,15 @@
 This repository contains an extensive kitchen-terraform code example (AWS EC2, IAM, etc.)
 
 ## Prerequisites:
-. AWS account
+1. AWS account
 
 ## Usage
 
 The following instructions assume you start with a clean Ubuntu 16.04 LTS Xenial VM (for example ami-0f9351b59be17920e in us-east-1)
 
-. [Install Terraform](https://www.terraform.io/intro/getting-started/install.html)
-. [Install the AWS CLI tool](https://aws.amazon.com/documentation/cli/)
-. [Configure the AWS CLI tool](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-started.html#cli-quick-configuration)
+1. [Install Terraform](https://www.terraform.io/intro/getting-started/install.html)
+1. [Install the AWS CLI tool](https://aws.amazon.com/documentation/cli/)
+1. [Configure the AWS CLI tool](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-started.html#cli-quick-configuration)
 . Install the dependency hell:
 ```
 $ sudo apt-get update
