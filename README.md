@@ -2,6 +2,9 @@
 
 This repository contains an extensive kitchen-terraform code example (AWS EC2, IAM, etc.)
 
+## Credit:
+Based on [this example](https://newcontext-oss.github.io/kitchen-terraform/tutorials/extensive_kitchen_terraform.html)
+
 ## Prerequisites:
 1. AWS account
 
