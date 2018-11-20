@@ -7,7 +7,7 @@ This repository contains an extensive kitchen-terraform code example (AWS EC2, I
 
 ## Usage
 
-The following instructions assume you start with a clean Ubuntu 16.04 LTS Xenial VM (for example 'ami-0f9351b59be17920e' in 'us-east-1')
+The following instructions assume you start with a clean Ubuntu 16.04 LTS Xenial VM (for example "ami-0f9351b59be17920e" in `us-east-1`)
 
 1. [Install Terraform](https://www.terraform.io/intro/getting-started/install.html)
 2. [Install the AWS CLI tool](https://aws.amazon.com/documentation/cli/)
