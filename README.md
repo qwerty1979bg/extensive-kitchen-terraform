@@ -25,8 +25,9 @@ $ sudo gem install bundler
 5. Clone this repository and `cd` into it.
 6. Run the following:
 ```
+$ ./generate_ssh_key.sh
 $ bundle install
-$ bundle exec kitchen test
+$ ./run.sh
 ```
 
 Note: Make sure there are no instances left running in AWS (check both us-east-1 and us-west-2)
