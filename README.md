@@ -19,7 +19,7 @@ $ sudo apt update
 $ sudo apt install -y less gcc ruby ruby-dev make g++ git jq unzip python-pip
 $ sudo gem install bundler
 ```
-2. [Install Terraform](https://www.terraform.io/intro/getting-started/install.html)
+2. [Install Terraform](https://www.terraform.io/intro/getting-started/install.html)  
 ~~3. [Install the AWS CLI tool](https://docs.aws.amazon.com/cli/latest/userguide/awscli-install-linux.html)~~
 3. Install the AWS CLI tool:
 ```
