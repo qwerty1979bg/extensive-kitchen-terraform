@@ -7,3 +7,8 @@
 
 # .tfvars files
 *.tfvars
+
+Gemfile.lock
+.ruby-version
+
+test/assets/
